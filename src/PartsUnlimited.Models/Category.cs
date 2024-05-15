@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
+// Cambio de codigo en Category
 {
     public class Category
     {
