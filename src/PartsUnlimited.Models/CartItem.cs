@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations;
 namespace PartsUnlimited.Models
 {
 
-    // hola mundo
+    // Cambio hecho desde GITHUB
     public class CartItem
     {
         [Key]
